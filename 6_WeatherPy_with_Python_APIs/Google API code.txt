@@ -1,0 +1,26 @@
+AIzaSyBLHPomoEprbCltNXYPskf8G1lnX6e2TQ0
+
+Module 5 Challenge Video https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e1926cf-dc75-4a51-a899-abdb00b847ed
+Module 6 Challenge Video
+https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=376643aa-f802-4f23-be4b-abdc0008dbd5
+Posted in #general | Jun 15th | View message
+
+Now that we’ve completed our analysis, we need to save and commit our changes to GitHub. Save PyPoll.py to the Election_Analysis folder, and then follow these steps:
+
+Launch the terminal for macOS or GitBash for Windows.
+Navigate to the Election_Analysis folder using the necessary commands.
+Type git status and press Enter.
+Type git add . and press Enter.
+Check the status again with git status and then press Enter.
+Commit the files to be added to the repository by typing git commit -m "Adding the election analysis." and then press Enter.
+Type git push and press Enter to add the file to your repository.
+Refresh your GitHub page to see the repository changes.git add .
+git status
+
+
+Vandenberg Air Force Base Space Launch Complex 3W
+Cape Canaveral Air Force Station Space Launch Complex 40
+SpaceX South Texas Launch Site
+Kwajalein Atoll Omelek Island
+Vandenberg Air Force Base Space Launch Complex 4E
+Kennedy Space Center Historic Launch Complex 39A
