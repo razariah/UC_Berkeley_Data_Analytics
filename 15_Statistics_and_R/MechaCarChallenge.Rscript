@@ -1,0 +1,21 @@
+# Load MechaCar dataset
+data = read.csv("MechaCar_mpg.csv")
+
+# Perform multiple linear regression
+model = lm(mpg ~ vehicle.length + vehicle.weight + spoiler.angle + ground.clearance + AWD, data=data)
+summary(model)
+
+## Suspension Coil Summary
+data2 <- read.table("Suspension_Coil.csv", head=TRUE, sep=",")
+mean_psi <-mean(data2$PSI)
+median_psi <- median(data2$PSI)
+var_psi <- var(data2$PSI)
+sd_psi <- sd(data2$PSI)
+
+stats <- c(mean_psi, median_psi, var_psi, sd_psi)
+names(stats) <- c('mean', 'median', 'variance', 'Std')
+stats
+
+pop_mean <- 1500
+t_test <- t.test(data2$PSI, mu=pop_mean)
+t_test

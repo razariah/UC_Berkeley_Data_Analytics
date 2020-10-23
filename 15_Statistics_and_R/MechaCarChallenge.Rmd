@@ -1,0 +1,49 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## MPG Regression
+```{r}
+data <- read.csv("MechaCar_mpg.csv")
+head(data)
+```
+
+
+```{r}
+model <- lm(mpg ~ vehicle.length + vehicle.weight + spoiler.angle + ground.clearance + AWD, data=data)
+summary(model)
+```
+
+```{r}
+library(ggplot2)
+ggplot(data, aes(x=vehicle.length, y=mpg)) + geom_point() + geom_smooth()
+ggplot(data, aes(x=ground.clearance, y=mpg)) + geom_point() + geom_smooth()
+ggplot(data, aes(x=vehicle.weight, y=mpg)) + geom_point() + geom_smooth()
+ggplot(data, aes(x=AWD, y=mpg)) + geom_point() + geom_smooth()
+ggplot(data, aes(x=spoiler.angle, y=mpg)) + geom_point() + geom_smooth()
+
+```
+
+## Suspension Coil Summary
+```{r}
+data2 <- read.table("Suspension_Coil.csv", head=TRUE, sep=",")
+head(data2)
+```
+
+```{r}
+mean_psi <-mean(data2$PSI)
+median_psi <- median(data2$PSI)
+var_psi <- var(data2$PSI)
+sd_psi <- sd(data2$PSI)
+
+stats <- c(mean_psi, median_psi, var_psi, sd_psi)
+names(stats) <- c('mean', 'median', 'variance', 'Std')
+stats
+```
+
+```{r}
+pop_mean <- 1500
+t_test <- t.test(data2$PSI, mu=pop_mean)
+t_test
+```
