@@ -10,14 +10,28 @@ For the record, the percent of passing students was less when the .
 
 ## BEFORE:
 Here are the scores calcuated when all schools were included along with the false scores modified at Thomas High 9th grade
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	 % Passing Reading	% Overall Passing
-0	  15	39170		24649428	78.985371		81.87784		74.980853	 85.805463	        65.172326
+
+Total Schools = 15
+Total Students = 39170
+Total Budget = 24649428
+Average Math Score = 78.985371
+Average Reading Score = 81.87784
+% Passing Math = 74.980853
+% Passing Reading = 85.805463	
+% Overall Passing = 65.172326
+  									 	        
 
 ## AFTER: 
 Here are the results after the 9th grade Thomas High School scores were removed as part of the challenge
-### Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	 % Passing Reading	% Overall Passing
-###   15	          39170		       24649428	       78.930533		        81.855796		       73.880521	       84.651519	        64.092418
 
+Total Schools = 15
+Total Students = 39170
+Total Budget = 24649428
+Average Math Score = 78.930533
+Average Reading Score = 81.855796
+% Passing Math = 73.880521
+% Passing Reading = 84.651519
+% Overall Passing = 64.092418
 
 The changes in the results of the school summary were less but not with enough significance to affect the overall impression of Thomas High
 
