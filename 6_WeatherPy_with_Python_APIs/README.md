@@ -19,8 +19,9 @@ Analyze 500 or more of the world’s unique cities and their weather data in rea
 * Latitude vs. Cloudiness
 * Latitude vs. Wind Speed
 
-<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/LatVtemp.png">
 <img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVhumidity.png">
+<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/LatVtemp.png">
+
 
 <p align="center"><img width="400" height="249" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVcloudiness.png"> 
 <img width="400" height="249" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVwindspeed.png"></p>
