@@ -30,7 +30,7 @@ Average Reading Score = 81.855796,
 % Passing Reading = 84.651519,
 % Overall Passing = 64.092418
 
-## Conclusion
+### Conclusion
 The changes in the results of the school summary were lower, but not with enough significance to affect the overall ieffect of bad grades delivered from Thomas High School
 
 ### BEFORE
