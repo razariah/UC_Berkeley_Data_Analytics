@@ -5,7 +5,7 @@ Module 6 Working with API's
 Analyze at least 500 randomly selected cities around the world to prove that the weather gets hotter as one approaches the equator using the Open Weather Map API.
 
 ## Process
-<img align="right" width="450" height="280" src="https://github.com/lorijta92/API-weather-visualization/blob/master/output_data/latvtemp.png?raw=true">
+<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latvtemp.png">
 
 The first step was to generate a random list of at least 500 cities around the world for an unbiased sampling. Random latitudes and longitudes were created using the NumPy library and the city nearest those coordinates were found using citipy and stored in a list.
 
