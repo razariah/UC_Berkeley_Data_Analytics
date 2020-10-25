@@ -8,7 +8,7 @@ A recreation of the district and school summary DataFrames has little affect on 
 The average scores of reading and math were less than when the Thomas High 9th grade student scores were included. 
 For the record, the percent of passing students was less when the . 
 
-## BEFORE:
+### BEFORE:
 Scores calcuated when all schools were included along with the false scores modified at Thomas High 9th grade
 Total Schools = 15,
 Total Students = 39170,
@@ -19,7 +19,7 @@ Average Reading Score = 81.87784,
 % Passing Reading = 85.805463,	
 % Overall Passing = 65.172326
   									 	        
-## AFTER: 
+### AFTER: 
 Scores calcuated after the 9th grade Thomas High School scores were removed as part of the challenge
 Total Schools = 15,
 Total Students = 39170,
@@ -33,7 +33,7 @@ Average Reading Score = 81.855796,
 ## Conclusion
 The changes in the results of the school summary were lower, but not with enough significance to affect the overall ieffect of bad grades delivered from Thomas High School
 
-## BEFORE
+### BEFORE
 Total of all grades math and reading scores within Thomas High School ’s scores relative to the other schools.
 Thomas High School	
 School Type = Charter
@@ -47,7 +47,7 @@ Average Reading Score = 83.848930
 % Overall Passing	= 90.948012
 Spending Ranges (Per Student) = $630-644
 
-## AFTER
+### AFTER
 Thomas High School	
 School Type = Charter
 Total Students = 1635
@@ -60,5 +60,5 @@ Average Reading Score = 83.896082
 % Overall Passing	= 65.076453
 Spending Ranges (Per Student) = $630-644														
 
-## Conclusion
+### Conclusion
 Replacing ninth graders’ math and reading scores does not affect the performance of Thomas High School’s scores relative to the other schools. 
