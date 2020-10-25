@@ -21,7 +21,7 @@ Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Sco
 
 The changes in the results of the school summary were less but not with enough significance to affect the overall impression of Thomas High
 
-## Thomas High School	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing	Spending Ranges (Per Student)
+Thomas High School	School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing	Spending Ranges (Per Student)
 
 ## BEFORE
 Thomas High School	Charter		1635		$1,043,130.00		$638.00			83.418349		83.848930		1525		1591			90.948012		$630-644
