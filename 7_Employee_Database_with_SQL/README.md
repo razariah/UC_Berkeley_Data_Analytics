@@ -1,6 +1,6 @@
 # Module-7-Challenge-SQL
 
-## Goal 
+## Goal: Determine the total number of employees per title who will be retiring, and identify employees who are eligible to participate in a mentorship program.
 
 ### Number of Retiring Employees by Title after evaluation and review were 41380
 
@@ -13,7 +13,7 @@
 ### All tables exported in CSV format.
 
 ### Technical Analysis Deliverable 2: 
-#### Mentorship Eligibility. 
-		A table containing employees who are eligible for the mentorship program (and the CSV containing the data)
-			<done> table: mentorship_eligibility. 
-			<done> csv file exported to local files and uploaded to GitHub
+### Mentorship Eligibility. 
+####  Created a table containing employees who are eligible for the mentorship program output to a CSV containing the data
+
+#### Created a table: mentorship_eligibility. 
