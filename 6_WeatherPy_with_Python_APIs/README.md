@@ -13,15 +13,14 @@ Analyze 500 or more of the world’s unique cities and their weather data in rea
 5) Requests to obtain the information on loudiness, country name, date, humidity, lat, long, max temp, and wind speed provided by the API.
 6) Obtained descriptive information was stored in data frame then exported as a csv file.
 
-<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/LatVtemp.png">
-<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVhumidity.png">
-
 ## Comparison create scatter plots of the following were made:
-
 * Latitude vs. Temperature
 * Latitude vs. Humidity
 * Latitude vs. Cloudiness
 * Latitude vs. Wind Speed
+
+<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/LatVtemp.png">
+<img align="right" width="450" height="280" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVhumidity.png">
 
 <p align="center"><img width="400" height="249" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVcloudiness.png"> 
 <img width="400" height="249" src="https://github.com/razariah/UC_BERKELEY/blob/main/6_WeatherPy_with_Python_APIs/latVwindspeed.png"></p>
