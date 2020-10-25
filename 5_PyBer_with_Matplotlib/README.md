@@ -1,15 +1,11 @@
-# Mod5_PyBer_Analysis
-
-To deliver the results of your analysis, you will submit a written analysis created for your CEO, V. Isualize, in the form of a README.md file on your GitHub repository. In your README.md, you should have three paragraphs consisting of 4 to 5 sentences each.
-
-##The purpose of the project was to compare ride sharing data bewteen urban, suburban and rural areas.
+## The purpose of the project was to compare ride sharing data bewteen urban, suburban and rural areas.
 
 Data was analyzed to deliver technical deliverables through data manipulation, "groupby" and aggregation methods.
 
 Based on the results of the summary DataFrame and multiple-line graphs with respect to the ride-sharing data among the different city types, 
 the ride sharing increased dramatically in May for the Suburban ride sharing fees while both Rural and Urban showed gradual decreasing fares.
 	
-##A short summary of the results.
+## A short summary of the results.
 
 There were no substantial challenges encounted while evaluating ride sharing data gathered from rural, suburban or urban use patterns.  Clearly urban fares fetched a high value for the duration than rural. 
 
