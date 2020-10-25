@@ -1,9 +1,16 @@
-# Module_2
+# Challenge_Module_2 
 
-# Challenge
+Goal:
+Create a script using VBA in Excel to analyze stock data from 2017 to 2018.
 
-Next, update your README.md file as follows:
+Process:
+Used for loops and conditionals to iterate through each row of data in 3 worksheets in a workbook to return the following:
 
-Add a header for the challenge, i.e., # Challenge
-Under this section, add a short description of the new analysis
-Save your README file. Make sure the most recent copy is in your GitHub repository. Then, copy the link to your Challenge from your repo and paste it into the submission here.
+Ticker symbol
+Total volume of stock sold per ticker symbol
+Annual change between the opening price at the beginning of the year and closing price at the end of the year per ticker symbol
+Percent change between the opening price at the beginning of the year and closing price at the end of the year per ticker symbol
+Ticker symbol with the greatest percent increase and its corresponding value
+Ticker symbol with the greatest percent decrease and its corresponding value
+Ticker symbol with the greatest total volume and its corresponding value
+Also created a script to conditionally format the cell interiors of "Yearly Change"
