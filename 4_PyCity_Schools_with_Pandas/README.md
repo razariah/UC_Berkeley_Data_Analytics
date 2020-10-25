@@ -15,8 +15,8 @@ Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Sco
 
 ## AFTER: 
 Here are the results after the 9th grade Thomas High School scores were removed as part of the challenge
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	 % Passing Reading	% Overall Passing
-0	  15	39170		24649428	78.930533		81.855796		73.880521	 84.651519	        64.092418
+### Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	 % Passing Reading	% Overall Passing
+### 0	  15	39170		24649428	78.930533		81.855796		73.880521	 84.651519	        64.092418
 
 
 The changes in the results of the school summary were less but not with enough significance to affect the overall impression of Thomas High
