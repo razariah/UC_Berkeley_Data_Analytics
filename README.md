@@ -41,11 +41,11 @@ _____________________
 
 #### Module 17 - [Supervised Machine Learning and Credit Risk](https://github.com/razariah/UC_BERKELEY/tree/main/17_Supervised_Machine_Learning_and_Credit_Risk)
 
-#### Module 18 - Unsupervised Machine Learning and Cryptocurrencies
+#### Module 18 - [Unsupervised Machine Learning and Cryptocurrencies](https://github.com/razariah/UC_BERKELEY/tree/main/18_Unsupersived_Machine_Learning_and_Cryptocurrencies)
 
 #### Module 19 - Neural Networks and Deep Learning Models
 
 #### Module 20 - Final Project
 
 
-[Supervised Machine Learning and Credit Risk](https://github.com/razariah/UC_BERKELEY/tree/main/17_Supervised_Machine_Learning_and_Credit_Risk)
+[Unsupervised Machine Learning and Cryptocurrencies](https://github.com/razariah/UC_BERKELEY/tree/main/18_Unsupersived_Machine_Learning_and_Cryptocurrencies)
