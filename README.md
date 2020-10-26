@@ -11,7 +11,7 @@ _____________________
 
 #### Module 2 - [VBA of Wall Street](https://github.com/razariah/UC_BERKELEY/tree/main/2_VBA_of_Wall_Street)
 
-#### Module 3 - PyPoll with Pythom
+#### Module 3 - [PyPoll with Pythom](https://github.com/razariah/UC_BERKELEY/tree/main/3_Py_Poll_with_Python)
 
 #### Module 4 - PyCity Schools with Pandas
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[VBA of Wall Street](https://github.com/razariah/UC_BERKELEY/tree/main/2_VBA_of_Wall_Street)
+[PyPoll with Pythom](https://github.com/razariah/UC_BERKELEY/tree/main/3_Py_Poll_with_Python)
