@@ -23,7 +23,7 @@ _____________________
 
 #### Module 8 - [ETL - Extraction, Transform, Load](https://github.com/razariah/UC_BERKELEY/tree/main/8_ETL_Extract_Transorm_Load)
 
-#### Module 9 - Surf's Up with Advanced Data Storage and Retrieval
+#### Module 9 - [Surf's Up with Advanced Data Storage and Retrieval](https://github.com/razariah/UC_BERKELEY/tree/main/9_Surfs_Up_with_Advanced_Data_Storage_and_Retrieval)
 
 #### Module 10 - [Mission to Mars - Web Scraping with HTML/CSS](https://github.com/razariah/UC_BERKELEY/tree/main/10_Mission_to_Mars_Web_Scraping_with_HTML_CSS)
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[ETL - Extraction, Transform, Load](https://github.com/razariah/UC_BERKELEY/tree/main/8_ETL_Extract_Transorm_Load)
+[Surf's Up with Advanced Data Storage and Retrieval](https://github.com/razariah/UC_BERKELEY/tree/main/9_Surfs_Up_with_Advanced_Data_Storage_and_Retrieval)
