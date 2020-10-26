@@ -35,7 +35,7 @@ _____________________
 
 #### Module 14 - [NY Citibike with Tableau](https://github.com/razariah/UC_BERKELEY/tree/main/14_NY_Citibike_with_Tableau)
 
-#### Module 15 - Statistics and R
+#### Module 15 - [Statistics and R](https://github.com/razariah/UC_BERKELEY/tree/main/15_Statistics_and_R)
 
 #### Module 16 - Big Data
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[NY Citibike with Tableau](https://github.com/razariah/UC_BERKELEY/tree/main/14_NY_Citibike_with_Tableau)
+[Statistics and R](https://github.com/razariah/UC_BERKELEY/tree/main/15_Statistics_and_R)
