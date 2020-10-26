@@ -1,18 +1,13 @@
 #README
 ### The Process: I implemented neural network/deep neural network classification algorithms to classify if a charity application is successful or not based on a combination of numeric and categorical attributes in the application.
 
-
 ### Data proprocessing including the following steps:
 
 #### Remove features that are not very useful in machine learning including:
 * EIN, Names, Status, and Special_considerations as they are either irrelavent or have the majority single value.
-
 * Generate list of categorical variables and based on unique values to decide to bin values in the Application_type and Classification attributes
-
 * OneHotEncoding categorical variables and merge them with originals while droping those categorical variables
-
 * Splitting the data into training and testing data, and scale the data
-
 * Data was modeled using both Neural Network (NN) and Deep Neural Network (DNN) classification.
 
 #### Neural Networks
