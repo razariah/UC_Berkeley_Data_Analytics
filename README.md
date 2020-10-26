@@ -33,7 +33,7 @@ _____________________
 
 #### Module 13 - Mapping Earthquakes with JS & API's
 
-#### Module 14 - NY Citibike with Tableau
+#### Module 14 - [NY Citibike with Tableau](https://github.com/razariah/UC_BERKELEY/tree/main/14_NY_Citibike_with_Tableau)
 
 #### Module 15 - Statistics and R
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[UFO_Sightings_with_JavaScript](https://github.com/razariah/UC_BERKELEY/tree/main/11_UFO_Sightings_with_JavaScript)
+[NY Citibike with Tableau](https://github.com/razariah/UC_BERKELEY/tree/main/14_NY_Citibike_with_Tableau)
