@@ -29,7 +29,7 @@ _____________________
 
 #### Module 11 - [UFO_Sightings_with_JavaScript](https://github.com/razariah/UC_BERKELEY/tree/main/11_UFO_Sightings_with_JavaScript)
 
-#### Module 12 - Plotly & Belly Button Biodiversity
+#### Module 12 - [Plotly & Belly Button Biodiversity](https://github.com/razariah/UC_BERKELEY/tree/main/12_Plotly_and_Belly_Button_Biodiversity)
 
 #### Module 13 - Mapping Earthquakes with JS & API's
 
