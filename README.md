@@ -31,7 +31,7 @@ _____________________
 
 #### Module 12 - [Plotly & Belly Button Biodiversity](https://github.com/razariah/UC_BERKELEY/tree/main/12_Plotly_and_Belly_Button_Biodiversity)
 
-#### Module 13 - Mapping Earthquakes with JS & API's
+#### Module 13 - [Mapping Earthquakes with JS & API's](https://github.com/razariah/UC_BERKELEY/tree/main/13_Mapping_Earthquakes_with_JS_and_APIs/mapbox-practice)
 
 #### Module 14 - [NY Citibike with Tableau](https://github.com/razariah/UC_BERKELEY/tree/main/14_NY_Citibike_with_Tableau)
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Plotly & Belly Button Biodiversity](https://github.com/razariah/UC_BERKELEY/tree/main/12_Plotly_and_Belly_Button_Biodiversity)
+[Mapping Earthquakes with JS & API's](https://github.com/razariah/UC_BERKELEY/tree/main/13_Mapping_Earthquakes_with_JS_and_APIs/mapbox-practice)
