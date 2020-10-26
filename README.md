@@ -19,7 +19,7 @@ _____________________
 
 #### Module 6 - [Weather Py with Python API's](https://github.com/razariah/UC_BERKELEY/tree/main/6_WeatherPy_with_Python_APIs)
 
-#### Module 7 - Employee Database with SQL
+#### Module 7 - [Employee Database with SQL](https://github.com/razariah/UC_BERKELEY/tree/main/7_Employee_Database_with_SQL)
 
 #### Module 8 - ETL - Extraction, Transform, Load
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Weather Py with Python API's](https://github.com/razariah/UC_BERKELEY/tree/main/6_WeatherPy_with_Python_APIs)
+[Employee Database with SQL](https://github.com/razariah/UC_BERKELEY/tree/main/7_Employee_Database_with_SQL)
