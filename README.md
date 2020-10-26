@@ -45,7 +45,7 @@ _____________________
 
 #### Module 19 - [Neural Networks and Deep Learning Models](https://github.com/razariah/UC_BERKELEY/tree/main/19_Neural_Networks_and_Deep_Learning_Models)
 
-#### Module 20 - Final Project
+#### Module 20 - [Final Project](https://docs.google.com/presentation/d/1lAy8StLDQWyf62V-8jowSlDHaiTOXzar5aKAlyttHUI/edit?usp=sharing)
 
 
-[Neural Networks and Deep Learning Models](https://github.com/razariah/UC_BERKELEY/tree/main/19_Neural_Networks_and_Deep_Learning_Models)
+[Final Project](https://docs.google.com/presentation/d/1lAy8StLDQWyf62V-8jowSlDHaiTOXzar5aKAlyttHUI/edit?usp=sharing)
