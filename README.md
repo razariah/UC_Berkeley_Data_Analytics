@@ -17,7 +17,7 @@ _____________________
 
 #### Module 5 - [PyBer with Matplotlib](https://github.com/razariah/UC_BERKELEY/tree/main/5_PyBer_with_Matplotlib)
 
-#### Module 6 - Weather Py with Python API's
+#### Module 6 - [Weather Py with Python API's](https://github.com/razariah/UC_BERKELEY/tree/main/6_WeatherPy_with_Python_APIs)
 
 #### Module 7 - Employee Database with SQL
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[PyBer with Matplotlib](https://github.com/razariah/UC_BERKELEY/tree/main/5_PyBer_with_Matplotlib)
+[Weather Py with Python API's](https://github.com/razariah/UC_BERKELEY/tree/main/6_WeatherPy_with_Python_APIs)
