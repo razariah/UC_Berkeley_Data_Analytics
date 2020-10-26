@@ -37,7 +37,7 @@ _____________________
 
 #### Module 15 - [Statistics and R](https://github.com/razariah/UC_BERKELEY/tree/main/15_Statistics_and_R)
 
-#### Module 16 - Big Data
+#### Module 16 - [Big Data](https://github.com/razariah/UC_BERKELEY/tree/main/16_Big_Data)
 
 #### Module 17 - Supervised Machine Learning and Credit Risk
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Mapping Earthquakes with JS & API's](https://github.com/razariah/UC_BERKELEY/tree/main/13_Mapping_Earthquakes_with_JS_and_APIs/mapbox-practice)
+[Big Data](https://github.com/razariah/UC_BERKELEY/tree/main/16_Big_Data)
