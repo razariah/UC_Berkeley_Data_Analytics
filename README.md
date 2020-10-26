@@ -43,9 +43,9 @@ _____________________
 
 #### Module 18 - [Unsupervised Machine Learning and Cryptocurrencies](https://github.com/razariah/UC_BERKELEY/tree/main/18_Unsupersived_Machine_Learning_and_Cryptocurrencies)
 
-#### Module 19 - Neural Networks and Deep Learning Models
+#### Module 19 - [Neural Networks and Deep Learning Models](https://github.com/razariah/UC_BERKELEY/tree/main/19_Neural_Networks_and_Deep_Learning_Models)
 
 #### Module 20 - Final Project
 
 
-[Unsupervised Machine Learning and Cryptocurrencies](https://github.com/razariah/UC_BERKELEY/tree/main/18_Unsupersived_Machine_Learning_and_Cryptocurrencies)
+[Neural Networks and Deep Learning Models](https://github.com/razariah/UC_BERKELEY/tree/main/19_Neural_Networks_and_Deep_Learning_Models)
