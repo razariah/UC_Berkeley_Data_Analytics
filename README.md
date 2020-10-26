@@ -21,7 +21,7 @@ _____________________
 
 #### Module 7 - [Employee Database with SQL](https://github.com/razariah/UC_BERKELEY/tree/main/7_Employee_Database_with_SQL)
 
-#### Module 8 - ETL - Extraction, Transform, Load
+#### Module 8 - [ETL - Extraction, Transform, Load](https://github.com/razariah/UC_BERKELEY/tree/main/8_ETL_Extract_Transorm_Load)
 
 #### Module 9 - Surf's Up with Advanced Data Storage and Retrieval
 
