@@ -7,7 +7,7 @@ ______________________
 ### Table of Contents
 _____________________
 
-#### Module 1 - Kickstarting with Excel
+#### Module 1 - [Kickstarting with Excel](https://github.com/razariah/UC_BERKELEY/tree/main/1_Kickstarting_with_Excel)
 
 #### Module 2 - VBA of Wall Street
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Mars Weather Twitter Account](https://twitter.com/marswxreport?lang=en)
+[Kickstarting with Excel](https://github.com/razariah/UC_BERKELEY/tree/main/1_Kickstarting_with_Excel)
