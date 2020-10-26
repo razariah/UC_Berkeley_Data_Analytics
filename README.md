@@ -39,7 +39,7 @@ _____________________
 
 #### Module 16 - [Big Data](https://github.com/razariah/UC_BERKELEY/tree/main/16_Big_Data)
 
-#### Module 17 - Supervised Machine Learning and Credit Risk
+#### Module 17 - [Supervised Machine Learning and Credit Risk](https://github.com/razariah/UC_BERKELEY/tree/main/17_Supervised_Machine_Learning_and_Credit_Risk)
 
 #### Module 18 - Unsupervised Machine Learning and Cryptocurrencies
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Big Data](https://github.com/razariah/UC_BERKELEY/tree/main/16_Big_Data)
+[Supervised Machine Learning and Credit Risk](https://github.com/razariah/UC_BERKELEY/tree/main/17_Supervised_Machine_Learning_and_Credit_Risk)
