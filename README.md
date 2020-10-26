@@ -25,7 +25,7 @@ _____________________
 
 #### Module 9 - Surf's Up with Advanced Data Storage and Retrieval
 
-#### Module 10 - Mission to Mars - Web Scraping with HTML/CSS
+#### Module 10 - [Mission to Mars - Web Scraping with HTML/CSS](https://github.com/razariah/UC_BERKELEY/tree/main/10_Mission_to_Mars_Web_Scraping_with_HTML_CSS)
 
 #### Module 11 - UFO Sightings with JavaScript
 
