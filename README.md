@@ -9,7 +9,7 @@ _____________________
 
 #### Module 1 - [Kickstarting with Excel](https://github.com/razariah/UC_BERKELEY/tree/main/1_Kickstarting_with_Excel)
 
-#### Module 2 - VBA of Wall Street
+#### Module 2 - [VBA of Wall Street](https://github.com/razariah/UC_BERKELEY/tree/main/2_VBA_of_Wall_Street)
 
 #### Module 3 - PyPoll with Pythom
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Kickstarting with Excel](https://github.com/razariah/UC_BERKELEY/tree/main/1_Kickstarting_with_Excel)
+[VBA of Wall Street](https://github.com/razariah/UC_BERKELEY/tree/main/2_VBA_of_Wall_Street)
