@@ -27,7 +27,7 @@ _____________________
 
 #### Module 10 - [Mission to Mars - Web Scraping with HTML/CSS](https://github.com/razariah/UC_BERKELEY/tree/main/10_Mission_to_Mars_Web_Scraping_with_HTML_CSS)
 
-#### Module 11 - UFO Sightings with JavaScript
+#### Module 11 - [ETL - Extraction, Transform, Load](https://github.com/razariah/UC_BERKELEY/tree/main/8_ETL_Extract_Transorm_Load)
 
 #### Module 12 - Plotly & Belly Button Biodiversity
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[Employee Database with SQL](https://github.com/razariah/UC_BERKELEY/tree/main/7_Employee_Database_with_SQL)
+[ETL - Extraction, Transform, Load](https://github.com/razariah/UC_BERKELEY/tree/main/8_ETL_Extract_Transorm_Load)
