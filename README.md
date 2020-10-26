@@ -13,7 +13,7 @@ _____________________
 
 #### Module 3 - [PyPoll with Pythom](https://github.com/razariah/UC_BERKELEY/tree/main/3_Py_Poll_with_Python)
 
-#### Module 4 - PyCity Schools with Pandas
+#### Module 4 - [PyCity Schools with Pandas](https://github.com/razariah/UC_BERKELEY/tree/main/4_PyCity_Schools_with_Pandas)
 
 #### Module 5 - PyBer with Matplotlib
 
