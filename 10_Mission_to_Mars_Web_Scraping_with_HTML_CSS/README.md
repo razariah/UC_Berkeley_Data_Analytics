@@ -1,64 +1,28 @@
-# Challenge Module 10
-
 ## Goal
-In this module, the goal is to scrap five web pages, create a web page to display the results using MongoDB and Flask.
-Scraping utilized BeautifulSoup, Splinter and Pandas.
 
-## Steps to Proceed
+Use Webscraping (BeautifulSoup, Splinter, Pandas) to scrape NASA and space-facts websites to extract interesting Mars facts and images URLs, store them in MongoDB, and design a web page to display those info elegantly.
 
-  <img align="right" src="https://github.com/lorijta92/mission-to-mars/blob/master/static/mtm-ss-all.png?raw=true">
+**Development tools**
 
-Utilizing Jupyter Notegook to test the code, I began with the useful dependencies.
-The installation of chromedriver was a little tricky but once it was installed all worked well.
-Websites were scrapped for titles and text using BeautifulSoup sift through the HTML to find elements and classes 'soup.find_all(): 
+    * BeautifulSoup - for web scraping
+    * Chromedriver/Splinter - use to load web page and act as a browser
+    * Pandas - convient for scraping web table to convert to html
+    * MongoDB - NoSQL database to store and query scraped data
+    * Flask/HTML - for Web development
+    * CSS/Bootstrap - for Web page style
+    
+**Scraping Steps**
+Scraping
+1. Scrape lastest Mars news from [NASA Mars page](https://mars.nasa.gov/news/). The news is extracted by searching elment "ul" with CSS class of "item_list" and element "li" with the CSS class of "slide." Only the first page is selected. Next step is to scrape news title and paragraph by selecting CSS classes of "content_title" and "article_teaser_body", respectively.
+2. Scrape featured image from [NASA space image](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars). Searching by id is used on the id "full_image." The link to image is found by text search of "more info", link is clicked by the program to get to the actual page containing the image URL, which is scraped finally.
+3. Scrape Mars facts from [space-facts](http://space-facts.com/mars). Pandas is used to extract the first table and converted to html. Bootstrap classes including "table", "table-striped", and "table-hover" are passed to Pandas to_html function to integrate CSS in the html.
+4. Scrape Mars hemisphere titles, thumbnails, and full image URLs. First the CSS class "itemLink" is used to find all hemisphere link items. Depending on "h3" or "img" tag, thumbnail URLs and hemisphere titles can be retrieved, respectively. The link is used to load the page that contains the page to the full image, and the full image URLs is finally scraped.
+5. All scraped data is stored in MongoDB for future querying.
 
-### Page One:
-[NASA Mars News](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest) 
-
-
-### The second page, was the Jet Propulsion Laboratory’s 
-
-[Mars page](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
-
-, where I would grab the full-sized featured image. This required clicking two other links after visiting the first page, so I used `browser.click_link_by_partial_text()` and `time.sleep()` to access those pages without inducing an error. 
-
-Afterwards, I used `soup.find_all()` and `.a[‘href’]` to find the relative image path, which I combined with the main URL to get the full-sized image. 
-
-### Third, was the [Mars Weather Twitter Account](https://twitter.com/marswxreport?lang=en), 
-
-where I would grab the most recent tweet. This was done in the same manner as the first page, parsing through the HTML to find the necessary element, and then grabbing the text of that.  
-
-### Next, was scraping Mars facts from the [Space Facts]( https://space-facts.com/mars/
-) website. 
-
-Because the data was stored in a table, I used Pandas to scrape instead of BeautifulSoup. I used `pd.read_html()` to scrape for tables and took the second returned table which stored the facts I needed. I then renamed the columns and set the index before converting that data frame into an HTML table with `df.to_html()`. 
-
-Lastly, I wanted to grab the images and names of all four of Mars’ hemispheres from the [USGS Astrogeology]( https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
-) page. 
-
-I first searched for the hemisphere titles with BeautifulSoup and stored those names in a list, `hemi_names`. 
-Then for the hemispheres, I searched for all thumbnail links and iterated through the results with a conditional, checking if the thumbnail element contained an image. 
-If true, the relative image path was taken and combined with the main URL, and the full image URL was appended to an empty list (`thumbnail_links`) outside of the loop. 
-To obtain the full-sized images of the hemispheres, I then iterated through each link in `thumbnail_links`, searching for all `img` elements with a `wide-image` class. 
-The results were used to retrieve the full image path of the hemispheres, with the URLs being stored in a list, `full_imgs`. 
-To match the hemisphere name to the correct image link, I zipped together `hemi_names` and `full_imgs` and iterated through that zipped object, first appending the hemisphere title to an empty dictionary as a key, and the image URL as the value, and then appending that dictionary to an empty list. 
-
-After all the code was checked, it was then transferred from the notebook to a Python file and used to create a scraping function. 
-
-The results of all the scraping was then stored as a dictionary to be returned at the end of the function. 
-
-### **Flask**
-
-In a separate file, Flask was used to trigger the scrape function, update the Mongo database with the results, and then return that record of data from the database on a webpage. 
-
-An instance of Flask was created, and then I used PyMongo to establish a connection to the MongoDB server. 
-
-With this connection, I used the `/scrape` route to run the scrape function located in the imported `scrape_mars.py` file. 
-
-I then updated the Mongo database with the new collection from the scrape, using `update` and `upsert=True`. 
-
-The end of this route redirects to the home route. The home route searches for one record of data in the Mongo database and then renders the `index.html` template with that record. 
-
-In `index.html`, the `/scrape` route was linked to a button, which a user could click to initiate the scrape. 
-
-The remainder of that HTML file was formatted with Bootstrap to display the results from the scrape.
+**Flask App**
+**Layout (from top-down):
+1. Jumbotron - The title "Mission to Mars" in a background of a Mars explorer. A "Scrape New Data" button is used to scrape new data. Clicking the button will trigger the Flask scraping function to re-scrape everything as described above and store data in MongoDB. A new page showing "Scraping Successful!" will be shown along with a button to go back to homepage.
+2. Lastest Mars News is retrieved from MongoDB and its title and paragraph is displayed.
+3. The featured Mars image URL scraped most recently will retrieved from MongoDB and the image displayed.
+4. The Mars facts table html stored in MongoDB is displayed.
+5. Four Mars Hemispheres title and thumnails are displayed. Below each thumnail a link to the full image can be clicked to open its full image in a new browser tab.
