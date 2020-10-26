@@ -15,7 +15,7 @@ _____________________
 
 #### Module 4 - [PyCity Schools with Pandas](https://github.com/razariah/UC_BERKELEY/tree/main/4_PyCity_Schools_with_Pandas)
 
-#### Module 5 - PyBer with Matplotlib
+#### Module 5 - [PyBer with Matplotlib](https://github.com/razariah/UC_BERKELEY/tree/main/5_PyBer_with_Matplotlib)
 
 #### Module 6 - Weather Py with Python API's
 
@@ -48,4 +48,4 @@ _____________________
 #### Module 20 - Final Project
 
 
-[PyCity Schools with Pandas](https://github.com/razariah/UC_BERKELEY/tree/main/4_PyCity_Schools_with_Pandas)
+[PyBer with Matplotlib](https://github.com/razariah/UC_BERKELEY/tree/main/5_PyBer_with_Matplotlib)
